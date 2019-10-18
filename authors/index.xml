@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Steve</title>
+    <link>https://phonchi.github.io/authors/</link>
+      <atom:link href="https://phonchi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phonchi.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://phonchi.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>I-Ping Tu</title>
+      <link>https://phonchi.github.io/authors/i-ping-tu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/i-ping-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Po-Yao Niu</title>
+      <link>https://phonchi.github.io/authors/po-yao-niu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/po-yao-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Su-Yun Huang</title>
+      <link>https://phonchi.github.io/authors/su-yun-huang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/su-yun-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Szu-Chi Chung</title>
+      <link>https://phonchi.github.io/authors/szu-chi-chung/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/szu-chi-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-Hau Chang</title>
+      <link>https://phonchi.github.io/authors/wei-hau-chang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/wei-hau-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen-Yi Lee</title>
+      <link>https://phonchi.github.io/authors/chen-yi-lee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/chen-yi-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chun-Yuan Yu</title>
+      <link>https://phonchi.github.io/authors/chun-yuan-yu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/chun-yuan-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hsie-Chia Chang</title>
+      <link>https://phonchi.github.io/authors/hsie-chia-chang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/hsie-chia-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sung-Shine Lee</title>
+      <link>https://phonchi.github.io/authors/sung-shine-lee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/sung-shine-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hsing-Ping Fu</title>
+      <link>https://phonchi.github.io/authors/hsing-ping-fu/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/hsing-ping-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jen-Wei Lee</title>
+      <link>https://phonchi.github.io/authors/jen-wei-lee/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/jen-wei-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing-Yu Wu</title>
+      <link>https://phonchi.github.io/authors/jing-yu-wu/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/jing-yu-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://phonchi.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Currently working as a postdoctoral researcher in Institute of Statistical Science, Academia Sinica. Have received Ph.D degree from National Chiao Tung University in Sep. 2017. I am interested in the area of data analysis and data security.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

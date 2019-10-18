@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Steve</title>
+    <link>https://phonchi.github.io/publication/</link>
+      <atom:link href="https://phonchi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phonchi.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://phonchi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Two-Stage Dimension Reduction Method for Cryo-EM Image Processing</title>
+      <link>https://phonchi.github.io/publication/chung-2019-two/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2019-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved DPA countermeasure based on uniform distribution random power generator for IoT applications</title>
+      <link>https://phonchi.github.io/publication/chung-2017-improved/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2017-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream Cipher and ID-Based Crypto Systems for IoT Applications</title>
+      <link>https://phonchi.github.io/publication/chung-2017-thesis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2017-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Power AnalysisAttack on Stream cipher Trivium-64</title>
+      <link>https://phonchi.github.io/publication/lee-2015-new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2015-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Hardware Architecture of \eta_T Pairing Accelerator Over Characteristic Three</title>
+      <link>https://phonchi.github.io/publication/chung-2014-efficient/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2014-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Bilinear Pairing Accel-erator Using Residue Number System</title>
+      <link>https://phonchi.github.io/publication/chung-2014-implementing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2014-implementing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient power-analysis-resistant dual-field elliptic curve cryptographic processor using heterogeneous dual-processing-element architecture</title>
+      <link>https://phonchi.github.io/publication/lee-2013-efficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2013-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processor with side-channel attack resistance</title>
+      <link>https://phonchi.github.io/publication/lee-2013-processor/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2013-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-performance elliptic curve cryptographic processor over GF (p) with SPA resistance</title>
+      <link>https://phonchi.github.io/publication/chung-2012-high/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2012-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient countermeasure against correlation power-analysis attacks with randomized montgomery operations for DF-ECC processor</title>
+      <link>https://phonchi.github.io/publication/lee-2012-efficient/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2012-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

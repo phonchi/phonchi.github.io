@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Steve</title>
+    <link>https://phonchi.github.io/project/</link>
+      <atom:link href="https://phonchi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2019 14:45:55 +0800</lastBuildDate>
+    <image>
+      <url>https://phonchi.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://phonchi.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>E HOME PROJECT</title>
+      <link>https://phonchi.github.io/project/e-home-project/</link>
+      <pubDate>Fri, 18 Oct 2019 14:45:55 +0800</pubDate>
+      <guid>https://phonchi.github.io/project/e-home-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DELTA NCTU IOT PROJECT</title>
+      <link>https://phonchi.github.io/project/delta-nctu-iot-project/</link>
+      <pubDate>Fri, 18 Oct 2019 14:45:37 +0800</pubDate>
+      <guid>https://phonchi.github.io/project/delta-nctu-iot-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIG DATA SECURITY PROJECT</title>
+      <link>https://phonchi.github.io/project/big-data-security-project/</link>
+      <pubDate>Fri, 18 Oct 2019 14:45:12 +0800</pubDate>
+      <guid>https://phonchi.github.io/project/big-data-security-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCALABLE VIDEO ANALYSIS FRAMEWORK</title>
+      <link>https://phonchi.github.io/project/scalable-video-analysis-framework/</link>
+      <pubDate>Fri, 18 Oct 2019 14:44:44 +0800</pubDate>
+      <guid>https://phonchi.github.io/project/scalable-video-analysis-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryo-EM Image Processing</title>
+      <link>https://phonchi.github.io/project/cryo-em-image-processing/</link>
+      <pubDate>Fri, 18 Oct 2019 14:39:52 +0800</pubDate>
+      <guid>https://phonchi.github.io/project/cryo-em-image-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

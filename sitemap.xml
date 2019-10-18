@@ -1,17 +1,211 @@
----
-layout: null
-title : Sitemap
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for post in site.posts %}
-    <url>
-        <loc>{{site.url}}{{ post.url | prepend: site.baseurl }}</loc>
-    </url>
-{% endfor %}
-{% for page in site.pages %}
-    <url>
-        <loc>{{site.url}}{{ page.url | prepend: site.baseurl }}</loc>
-    </url>
-{% endfor %}
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://phonchi.github.io/project/e-home-project/</loc>
+    <lastmod>2019-10-18T14:45:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/project/</loc>
+    <lastmod>2019-10-18T14:45:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/</loc>
+    <lastmod>2019-10-18T14:45:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/project/delta-nctu-iot-project/</loc>
+    <lastmod>2019-10-18T14:45:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/project/big-data-security-project/</loc>
+    <lastmod>2019-10-18T14:45:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/project/scalable-video-analysis-framework/</loc>
+    <lastmod>2019-10-18T14:44:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/project/cryo-em-image-processing/</loc>
+    <lastmod>2019-10-18T14:39:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication_types/1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2019-two/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/i-ping-tu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/po-yao-niu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/su-yun-huang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/szu-chi-chung/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/wei-hau-chang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/talk/hdsa-2018/</loc>
+    <lastmod>2018-12-11T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/talk/</loc>
+    <lastmod>2018-12-11T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/talk/scalable-video-analysis-framework/</loc>
+    <lastmod>2018-03-14T14:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication_types/2/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication_types/7/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2017-improved/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/chen-yi-lee/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/chun-yuan-yu/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/hsie-chia-chang/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2017-thesis/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/sung-shine-lee/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/lee-2015-new/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2014-efficient/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/hsing-ping-fu/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2014-implementing/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/jen-wei-lee/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/jing-yu-wu/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/lee-2013-efficient/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/lee-2013-processor/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/chung-2012-high/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/publication/lee-2012-efficient/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://phonchi.github.io/tags/</loc>
+  </url>
+  
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hsing-Ping Fu | Steve</title>
+    <link>https://phonchi.github.io/authors/hsing-ping-fu/</link>
+      <atom:link href="https://phonchi.github.io/authors/hsing-ping-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hsing-Ping Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phonchi.github.io/img/icon-192.png</url>
+      <title>Hsing-Ping Fu</title>
+      <link>https://phonchi.github.io/authors/hsing-ping-fu/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Hardware Architecture of \eta_T Pairing Accelerator Over Characteristic Three</title>
+      <link>https://phonchi.github.io/publication/chung-2014-efficient/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2014-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jen-Wei Lee | Steve</title>
+    <link>https://phonchi.github.io/authors/jen-wei-lee/</link>
+      <atom:link href="https://phonchi.github.io/authors/jen-wei-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jen-Wei Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phonchi.github.io/img/icon-192.png</url>
+      <title>Jen-Wei Lee</title>
+      <link>https://phonchi.github.io/authors/jen-wei-lee/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Hardware Architecture of \eta_T Pairing Accelerator Over Characteristic Three</title>
+      <link>https://phonchi.github.io/publication/chung-2014-efficient/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2014-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient power-analysis-resistant dual-field elliptic curve cryptographic processor using heterogeneous dual-processing-element architecture</title>
+      <link>https://phonchi.github.io/publication/lee-2013-efficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2013-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processor with side-channel attack resistance</title>
+      <link>https://phonchi.github.io/publication/lee-2013-processor/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2013-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-performance elliptic curve cryptographic processor over GF (p) with SPA resistance</title>
+      <link>https://phonchi.github.io/publication/chung-2012-high/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2012-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient countermeasure against correlation power-analysis attacks with randomized montgomery operations for DF-ECC processor</title>
+      <link>https://phonchi.github.io/publication/lee-2012-efficient/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lee-2012-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
