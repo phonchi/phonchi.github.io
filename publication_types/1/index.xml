@@ -5,12 +5,28 @@
     <link>https://phonchi.github.io/publication_types/1/</link>
       <atom:link href="https://phonchi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://phonchi.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://phonchi.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Pre-Pro is a Fast Pre-Processor for Single-Particle Cryo-EM by Enhancing 2D Classification</title>
+      <link>https://phonchi.github.io/publication/chung-2020-prepro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2020-prepro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage dimension reduction for noisy high-dimensional images and application to Cryogenic Electron Microscopy</title>
+      <link>https://phonchi.github.io/publication/chung-2020-2sdr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2020-2sdr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Two-Stage Dimension Reduction Method for Cryo-EM Image Processing</title>
