@@ -5,12 +5,36 @@
     <link>https://phonchi.github.io/authors/i-ping-tu/</link>
       <atom:link href="https://phonchi.github.io/authors/i-ping-tu/index.xml" rel="self" type="application/rss+xml" />
     <description>I-Ping Tu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://phonchi.github.io/img/icon-192.png</url>
       <title>I-Ping Tu</title>
       <link>https://phonchi.github.io/authors/i-ping-tu/</link>
     </image>
+    
+    <item>
+      <title>Cryo-EM structure of particulate methane monooxygenase at 2.5 Å</title>
+      <link>https://phonchi.github.io/publication/chung-2021-pmmo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2021-pmmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRYO-EM: BREAKTHROUGHS IN CHEMISTRY, STRUCTURAL BIOLOGY, AND STATISTICAL UNDERPINNINGS</title>
+      <link>https://phonchi.github.io/publication/chung-2021-break/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2021-break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryo-RALib – a modular library for accelerating alignment in cryo-EM</title>
+      <link>https://phonchi.github.io/publication/chung-2021-cryoralib/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2021-cryoralib/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pre-Pro is a Fast Pre-Processor for Single-Particle Cryo-EM by Enhancing 2D Classification</title>

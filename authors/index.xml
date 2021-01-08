@@ -5,7 +5,7 @@
     <link>https://phonchi.github.io/authors/</link>
       <atom:link href="https://phonchi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://phonchi.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,114 @@
     </image>
     
     <item>
+      <title>Cheng-Yu Hung</title>
+      <link>https://phonchi.github.io/authors/cheng-yu-hung/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/cheng-yu-hung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hsin-Hung Lin</title>
       <link>https://phonchi.github.io/authors/hsin-hung-lin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://phonchi.github.io/authors/hsin-hung-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huei-Lun Siao</title>
+      <link>https://phonchi.github.io/authors/huei-lun-siao/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/huei-lun-siao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hung-Yi Wu</title>
+      <link>https://phonchi.github.io/authors/hung-yi-wu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/hung-yi-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-Kuen Tsai</title>
+      <link>https://phonchi.github.io/authors/i-kuen-tsai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/i-kuen-tsai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I-Ping Tu</title>
       <link>https://phonchi.github.io/authors/i-ping-tu/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://phonchi.github.io/authors/i-ping-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHAO-HSUAN WANG</title>
+      <link>https://phonchi.github.io/authors/shao-hsuan-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/shao-hsuan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shih-Hsin Huang</title>
+      <link>https://phonchi.github.io/authors/shih-hsin-huang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/shih-hsin-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Yu</title>
+      <link>https://phonchi.github.io/authors/steve-yu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/steve-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunney I. Chan</title>
+      <link>https://phonchi.github.io/authors/sunney-i.-chan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/sunney-i.-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Szu-Chi Chung</title>
+      <link>https://phonchi.github.io/authors/szu-chi-chung/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/szu-chi-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tze-Leung Lai</title>
+      <link>https://phonchi.github.io/authors/tze-leung-lai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/tze-leung-lai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-Hau Chang</title>
+      <link>https://phonchi.github.io/authors/wei-hau-chang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/wei-hau-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-Ching Yao</title>
+      <link>https://phonchi.github.io/authors/yi-ching-yao/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/authors/yi-ching-yao/</guid>
       <description></description>
     </item>
     
@@ -37,42 +133,10 @@
     </item>
     
     <item>
-      <title>SHAO-HSUAN WANG</title>
-      <link>https://phonchi.github.io/authors/shao-hsuan-wang/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/authors/shao-hsuan-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shih-Hsin Huang</title>
-      <link>https://phonchi.github.io/authors/shih-hsin-huang/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/authors/shih-hsin-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Su-Yun Huang</title>
       <link>https://phonchi.github.io/authors/su-yun-huang/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://phonchi.github.io/authors/su-yun-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Szu-Chi Chung</title>
-      <link>https://phonchi.github.io/authors/szu-chi-chung/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/authors/szu-chi-chung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei-Hau Chang</title>
-      <link>https://phonchi.github.io/authors/wei-hau-chang/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/authors/wei-hau-chang/</guid>
       <description></description>
     </item>
     
