@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>RE2DC: a robust and efficient 2D classifier with visualization tool for rapid processing massive and heterogeneous cryo-EM data</title>
+      <link>https://phonchi.github.io/publication/chung-2022-re2dc/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2022-re2dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A framework for orientation recovery with uncertainty measure with the application in cryo-EM image analysis</title>
       <link>https://phonchi.github.io/talk/ncu-2022/</link>
       <pubDate>Tue, 18 Oct 2022 13:30:00 +0800</pubDate>
@@ -81,14 +89,6 @@
       <link>https://phonchi.github.io/talk/eco-2022/</link>
       <pubDate>Mon, 06 Jun 2022 14:15:00 +0800</pubDate>
       <guid>https://phonchi.github.io/talk/eco-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RE2DC: a robust and efficient 2D classifier with visualization tool for rapid processing massive and heterogeneous cryo-EM data</title>
-      <link>https://phonchi.github.io/publication/chung-2022-re2dc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/publication/chung-2022-re2dc/</guid>
       <description></description>
     </item>
     
