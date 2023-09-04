@@ -5,7 +5,7 @@
     <link>https://phonchi.github.io/</link>
       <atom:link href="https://phonchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Steve</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 13:30:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 13:20:00 +0800</lastBuildDate>
     <image>
       <url>https://phonchi.github.io/img/icon-192.png</url>
       <title>Steve</title>
@@ -13,9 +13,49 @@
     </image>
     
     <item>
+      <title>Exploring the Conformational Landscape of Cryo-EM Using Energy-Aware Pathfinding Algorithm</title>
+      <link>https://phonchi.github.io/talk/ntu-2023/</link>
+      <pubDate>Fri, 15 Sep 2023 13:20:00 +0800</pubDate>
+      <guid>https://phonchi.github.io/talk/ntu-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Conformational Landscape of Cryo-EM Using Energy-Aware Pathfinding Algorithm</title>
+      <link>https://phonchi.github.io/publication/lin-2023-pathfinding/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/lin-2023-pathfinding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryo-forum: A framework for orientation recovery with uncertainty measure with the application in cryo-EM image analysis</title>
+      <link>https://phonchi.github.io/publication/chung-2023-cryoforum/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://phonchi.github.io/publication/chung-2023-cryoforum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the conformational landscape of cryo-EM using a density-aware path-finding algorithm</title>
+      <link>https://phonchi.github.io/talk/sinica-2023/</link>
+      <pubDate>Thu, 13 Jul 2023 13:20:00 +0800</pubDate>
+      <guid>https://phonchi.github.io/talk/sinica-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new framework for cryo-EM 3D structure orientation estimation</title>
+      <link>https://phonchi.github.io/talk/ccu-2023/</link>
+      <pubDate>Sat, 18 Feb 2023 10:15:00 +0800</pubDate>
+      <guid>https://phonchi.github.io/talk/ccu-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A framework for orientation recovery with uncertainty measure with the application in cryo-EM image analysis</title>
       <link>https://phonchi.github.io/talk/ncu-2022/</link>
-      <pubDate>Tue, 06 Sep 2022 13:30:00 +0800</pubDate>
+      <pubDate>Tue, 18 Oct 2022 13:30:00 +0800</pubDate>
       <guid>https://phonchi.github.io/talk/ncu-2022/</guid>
       <description></description>
     </item>
@@ -46,9 +86,9 @@
     
     <item>
       <title>RE2DC: a robust and efficient 2D classifier with visualization tool for rapid processing massive and heterogeneous cryo-EM data</title>
-      <link>https://phonchi.github.io/publication/chung-2023-re2dc/</link>
+      <link>https://phonchi.github.io/publication/chung-2022-re2dc/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://phonchi.github.io/publication/chung-2023-re2dc/</guid>
+      <guid>https://phonchi.github.io/publication/chung-2022-re2dc/</guid>
       <description></description>
     </item>
     
