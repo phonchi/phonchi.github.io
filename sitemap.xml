@@ -1,486 +1,307 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://phonchi.github.io/talk/ccu-2024/</loc>
+    <lastmod>2024-09-25T16:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/talk/</loc>
+    <lastmod>2024-09-25T16:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/</loc>
+    <lastmod>2024-09-25T16:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/talk/icsta-2024/</loc>
+    <lastmod>2024-08-20T11:35:00+08:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication_types/1/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication/chung-2024-seg/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/authors/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/authors/po-cheng-chou/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication_types/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/authors/szu-chi-chung/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication_types/2/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/publication/lin-2024-pathfinding/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phonchi.github.io/authors/teng-yu-lin/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://phonchi.github.io/talk/ncu-2024/</loc>
     <lastmod>2024-03-19T11:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/talk/</loc>
-    <lastmod>2024-03-19T11:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/</loc>
-    <lastmod>2024-03-19T11:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/publication_types/2/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/authors/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2023-cryoforum/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/publication/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/authors/szu-chi-chung/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/talk/ntu-2023/</loc>
+  </url><url>
+    <loc>https://phonchi.github.io/talk/ntu---2023/</loc>
     <lastmod>2023-09-15T13:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication_types/3/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/lin-2023-pathfinding/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/authors/teng-yu-lin/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/talk/sinica-2023/</loc>
+  </url><url>
+    <loc>https://phonchi.github.io/talk/sinica---2023/</loc>
     <lastmod>2023-07-13T13:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/talk/ccu-2023/</loc>
+  </url><url>
+    <loc>https://phonchi.github.io/talk/ccu---2023/</loc>
     <lastmod>2023-02-18T10:15:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hisn-hung-lin/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/i-ping-tu/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/kuen-phon-wu/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2022-re2dc/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/ting-li-chen/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/wei-hau-chang/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/ncu-2022/</loc>
     <lastmod>2022-10-18T13:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/jss-2022/</loc>
     <lastmod>2022-09-06T13:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/summit-2022/</loc>
     <lastmod>2022-08-24T17:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/eco-2022/</loc>
     <lastmod>2022-06-06T14:15:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/shao-hsuan-wang/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/tze-leung-lai/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2022-uncertain/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/yi-ching-yao/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nthu2-2021/</loc>
     <lastmod>2021-12-24T10:40:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-3dv/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hsin-hung-lin/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/shih-hsin-huang/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nuk-2021/</loc>
     <lastmod>2021-11-24T15:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/gtc-2021/</loc>
     <lastmod>2021-11-08T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/ncku-2021/</loc>
     <lastmod>2021-10-14T16:10:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nycu-2021/</loc>
     <lastmod>2021-05-06T14:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nsysu2-2021/</loc>
     <lastmod>2021-04-09T14:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nsysu-2021/</loc>
     <lastmod>2021-04-08T14:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/ncu-2021/</loc>
     <lastmod>2021-03-20T15:50:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/nthu-2021/</loc>
     <lastmod>2021-03-17T13:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phonchi.github.io/publication_types/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/cheng-yu-hung/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-pmmo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-break/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-cryoralib/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-network/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/huei-lun-siao/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hung-yi-wu/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/i-kuen-tsai/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2021-rami/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/steve-yu/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/sunney-i.-chan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/drmra-2020/</loc>
     <lastmod>2020-12-14T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/2sdr-2020/</loc>
     <lastmod>2020-12-12T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/gtc-2020/</loc>
     <lastmod>2020-10-18T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/po-yao-niu/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2020-prepro/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/su-yun-huang/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2020-2sdr/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/ascep-2019/</loc>
     <lastmod>2019-12-27T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/e-home-project/</loc>
     <lastmod>2019-10-18T14:45:55+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/</loc>
     <lastmod>2019-10-18T14:45:55+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/delta-nctu-iot-project/</loc>
     <lastmod>2019-10-18T14:45:37+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/big-data-security-project/</loc>
     <lastmod>2019-10-18T14:45:12+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/novatek/</loc>
     <lastmod>2019-10-18T14:44:44+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/scalable-video-analysis-framework/</loc>
     <lastmod>2019-10-18T14:44:44+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/project/cryo-em-image-processing/</loc>
     <lastmod>2019-10-18T14:39:52+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication_types/8/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2019-two/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/chen-yi-lee/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/chun-yuan-yu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2019-p1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2019-p2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hsi-chia-chang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/sung-shin-lee/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/hdsa-2018/</loc>
     <lastmod>2018-12-11T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/talk/scalable-video-analysis-framework/</loc>
     <lastmod>2018-03-14T14:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication_types/7/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2017-improved/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hsie-chia-chang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2017-thesis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/sung-shine-lee/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/lee-2015-new/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2014-efficient/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/hsing-ping-fu/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2014-implementing/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/jen-wei-lee/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/jing-yu-wu/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/lee-2013-efficient/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/lee-2013-processor/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/chung-2012-high/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/publication/lee-2012-efficient/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://phonchi.github.io/tags/</loc>
   </url>
-  
 </urlset>
